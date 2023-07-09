@@ -1,3 +1,0 @@
-#!/bin/bash
-
-wget https://download.open-mpi.org/release/open-mpi/v2.1/openmpi-2.1.6.tar.bz2
